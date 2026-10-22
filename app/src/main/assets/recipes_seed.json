@@ -1,0 +1,338 @@
+[
+  {
+    "name": "Tomato Pasta",
+    "description": "Simple weeknight pasta.",
+    "steps": [
+      "Boil the pasta in salted water until al dente.",
+      "Fry minced garlic in olive oil until golden.",
+      "Add diced tomatoes and simmer into a thick sauce.",
+      "Combine pasta and sauce and serve hot."
+    ],
+    "ingredients": [
+      {"name": "pasta", "quantity": 200, "unit": "g"},
+      {"name": "tomatoes", "quantity": 3, "unit": "piece"},
+      {"name": "garlic", "quantity": 2, "unit": "clove"},
+      {"name": "olive oil", "quantity": 2, "unit": "tbsp"}
+    ]
+  },
+  {
+    "name": "Scrambled Eggs",
+    "description": "Fluffy, creamy breakfast scrambled eggs.",
+    "steps": [
+      "Whisk eggs and milk in a bowl with a pinch of salt.",
+      "Melt butter in a non-stick skillet over medium-low heat.",
+      "Pour in eggs and gently scramble until just set.",
+      "Serve warm immediately."
+    ],
+    "ingredients": [
+      {"name": "eggs", "quantity": 3, "unit": "piece"},
+      {"name": "butter", "quantity": 15, "unit": "g"},
+      {"name": "milk", "quantity": 30, "unit": "ml"}
+    ]
+  },
+  {
+    "name": "Omelette with Cheese",
+    "description": "Classic folded omelette stuffed with melted cheese.",
+    "steps": [
+      "Beat eggs thoroughly with salt and pepper.",
+      "Melt butter in a frying pan over medium heat.",
+      "Pour eggs into the pan and cook until set on bottom.",
+      "Sprinkle grated cheese on one half and fold over.",
+      "Cook for another minute until cheese melts."
+    ],
+    "ingredients": [
+      {"name": "eggs", "quantity": 2, "unit": "piece"},
+      {"name": "cheese", "quantity": 50, "unit": "g"},
+      {"name": "butter", "quantity": 10, "unit": "g"}
+    ]
+  },
+  {
+    "name": "Fried Rice",
+    "description": "Quick, delicious fried rice with veggies and egg.",
+    "steps": [
+      "Heat vegetable oil in a large skillet or wok.",
+      "Sauté diced onion and minced garlic until soft.",
+      "Push veggies to side, scramble egg in the pan.",
+      "Add cooked rice and soy sauce, stirring constantly.",
+      "Cook for 3 minutes until heated through."
+    ],
+    "ingredients": [
+      {"name": "rice", "quantity": 300, "unit": "g"},
+      {"name": "egg", "quantity": 1, "unit": "piece"},
+      {"name": "onion", "quantity": 1, "unit": "piece"},
+      {"name": "garlic", "quantity": 2, "unit": "clove"},
+      {"name": "butter", "quantity": 15, "unit": "g"}
+    ]
+  },
+  {
+    "name": "Potato Soup",
+    "description": "Hearty, comforting potato soup.",
+    "steps": [
+      "Peel and chop potatoes into small cubes.",
+      "Sauté chopped onion and garlic in butter until soft.",
+      "Add potatoes and water, simmer for 15 minutes.",
+      "Stir in milk and mash slightly until creamy.",
+      "Season with salt and pepper before serving."
+    ],
+    "ingredients": [
+      {"name": "potato", "quantity": 4, "unit": "piece"},
+      {"name": "onion", "quantity": 1, "unit": "piece"},
+      {"name": "garlic", "quantity": 2, "unit": "clove"},
+      {"name": "butter", "quantity": 25, "unit": "g"},
+      {"name": "milk", "quantity": 250, "unit": "ml"}
+    ]
+  },
+  {
+    "name": "Garlic Butter Bread",
+    "description": "Crispy toasted garlic bread.",
+    "steps": [
+      "Mix softened butter with minced garlic.",
+      "Spread garlic butter generously on bread slices.",
+      "Toast in oven or pan until golden brown.",
+      "Serve warm as a snack or side dish."
+    ],
+    "ingredients": [
+      {"name": "flour", "quantity": 200, "unit": "g"},
+      {"name": "butter", "quantity": 30, "unit": "g"},
+      {"name": "garlic", "quantity": 3, "unit": "clove"}
+    ]
+  },
+  {
+    "name": "Pancakes",
+    "description": "Classic fluffy breakfast pancakes.",
+    "steps": [
+      "Whisk flour, milk, egg, and melted butter in a bowl.",
+      "Heat a lightly buttered pan over medium heat.",
+      "Pour batter in small rounds onto the pan.",
+      "Flip when bubbles appear and cook until golden brown."
+    ],
+    "ingredients": [
+      {"name": "flour", "quantity": 150, "unit": "g"},
+      {"name": "milk", "quantity": 240, "unit": "ml"},
+      {"name": "egg", "quantity": 1, "unit": "piece"},
+      {"name": "butter", "quantity": 20, "unit": "g"}
+    ]
+  },
+  {
+    "name": "Mashed Potatoes",
+    "description": "Creamy, smooth mashed potatoes.",
+    "steps": [
+      "Peel potatoes and boil in salted water until tender.",
+      "Drain potatoes thoroughly.",
+      "Mash potatoes with butter and warm milk until smooth.",
+      "Season generously with salt and pepper."
+    ],
+    "ingredients": [
+      {"name": "potatoes", "quantity": 5, "unit": "piece"},
+      {"name": "butter", "quantity": 50, "unit": "g"},
+      {"name": "milk", "quantity": 100, "unit": "ml"}
+    ]
+  },
+  {
+    "name": "Tomato Soup",
+    "description": "Classic rich tomato soup.",
+    "steps": [
+      "Sauté chopped onion and garlic in butter.",
+      "Add diced fresh tomatoes and simmer for 15 minutes.",
+      "Add milk and blend or whisk until smooth.",
+      "Serve hot with crusty bread."
+    ],
+    "ingredients": [
+      {"name": "tomatoes", "quantity": 5, "unit": "piece"},
+      {"name": "onion", "quantity": 1, "unit": "piece"},
+      {"name": "garlic", "quantity": 2, "unit": "clove"},
+      {"name": "butter", "quantity": 20, "unit": "g"},
+      {"name": "milk", "quantity": 150, "unit": "ml"}
+    ]
+  },
+  {
+    "name": "Vegetable Stir Fry",
+    "description": "Sautéed fresh vegetables.",
+    "steps": [
+      "Chop onion, garlic, and tomatoes into pieces.",
+      "Heat olive oil in a pan over high heat.",
+      "Sauté garlic and onion for 2 minutes.",
+      "Add tomatoes and cook until crisp-tender.",
+      "Season with salt and pepper."
+    ],
+    "ingredients": [
+      {"name": "onion", "quantity": 1, "unit": "piece"},
+      {"name": "garlic", "quantity": 3, "unit": "clove"},
+      {"name": "tomato", "quantity": 2, "unit": "piece"},
+      {"name": "olive oil", "quantity": 2, "unit": "tbsp"}
+    ]
+  },
+  {
+    "name": "Garlic Butter Rice",
+    "description": "Fragrant buttered rice with garlic.",
+    "steps": [
+      "Melt butter in a pan and sauté minced garlic.",
+      "Add cooked rice and toss until thoroughly coated.",
+      "Season with salt to taste and serve immediately."
+    ],
+    "ingredients": [
+      {"name": "rice", "quantity": 250, "unit": "g"},
+      {"name": "butter", "quantity": 25, "unit": "g"},
+      {"name": "garlic", "quantity": 3, "unit": "clove"}
+    ]
+  },
+  {
+    "name": "French Toast",
+    "description": "Golden toasted bread soaked in egg and milk.",
+    "steps": [
+      "Whisk egg and milk in a wide bowl.",
+      "Melt butter in a skillet over medium heat.",
+      "Dip bread slices in egg mixture until soaked.",
+      "Fry slices until golden brown on both sides."
+    ],
+    "ingredients": [
+      {"name": "egg", "quantity": 2, "unit": "piece"},
+      {"name": "milk", "quantity": 100, "unit": "ml"},
+      {"name": "butter", "quantity": 20, "unit": "g"},
+      {"name": "flour", "quantity": 100, "unit": "g"}
+    ]
+  },
+  {
+    "name": "Cheese Toastie",
+    "description": "Gooey grilled cheese sandwich.",
+    "steps": [
+      "Butter bread slices on one side.",
+      "Place cheese between unbuttered sides of bread.",
+      "Toast in skillet over medium-low heat until golden.",
+      "Flip and toast other side until cheese melts completely."
+    ],
+    "ingredients": [
+      {"name": "flour", "quantity": 100, "unit": "g"},
+      {"name": "cheese", "quantity": 60, "unit": "g"},
+      {"name": "butter", "quantity": 15, "unit": "g"}
+    ]
+  },
+  {
+    "name": "Potato Salad",
+    "description": "Cool potato salad with eggs and onion.",
+    "steps": [
+      "Boil potatoes and eggs until cooked through.",
+      "Peel and dice potatoes and hard-boiled eggs.",
+      "Finely chop onion and combine with potatoes and eggs.",
+      "Mix gently with olive oil, salt, and pepper.",
+      "Chill before serving."
+    ],
+    "ingredients": [
+      {"name": "potatoes", "quantity": 3, "unit": "piece"},
+      {"name": "eggs", "quantity": 2, "unit": "piece"},
+      {"name": "onion", "quantity": 1, "unit": "piece"},
+      {"name": "olive oil", "quantity": 2, "unit": "tbsp"}
+    ]
+  },
+  {
+    "name": "Egg Salad",
+    "description": "Simple, creamy egg salad.",
+    "steps": [
+      "Hard-boil eggs in boiling water for 10 minutes.",
+      "Cool, peel, and chop eggs into small pieces.",
+      "Mix chopped eggs with finely diced onion and butter.",
+      "Season with salt and pepper."
+    ],
+    "ingredients": [
+      {"name": "eggs", "quantity": 4, "unit": "piece"},
+      {"name": "onion", "quantity": 1, "unit": "piece"},
+      {"name": "butter", "quantity": 15, "unit": "g"}
+    ]
+  },
+  {
+    "name": "Garlic Butter Pasta",
+    "description": "Quick pasta tossed in garlic and butter.",
+    "steps": [
+      "Boil pasta until tender.",
+      "Melt butter in skillet and sauté minced garlic.",
+      "Toss pasta in garlic butter until well coated.",
+      "Season with salt and pepper."
+    ],
+    "ingredients": [
+      {"name": "pasta", "quantity": 200, "unit": "g"},
+      {"name": "butter", "quantity": 30, "unit": "g"},
+      {"name": "garlic", "quantity": 4, "unit": "clove"}
+    ]
+  },
+  {
+    "name": "Egg Fried Rice",
+    "description": "Classic egg fried rice with garlic and butter.",
+    "steps": [
+      "Melt butter in wok and fry minced garlic.",
+      "Add eggs and scramble gently.",
+      "Add cooked rice and toss continuously until piping hot."
+    ],
+    "ingredients": [
+      {"name": "rice", "quantity": 250, "unit": "g"},
+      {"name": "eggs", "quantity": 2, "unit": "piece"},
+      {"name": "garlic", "quantity": 2, "unit": "clove"},
+      {"name": "butter", "quantity": 20, "unit": "g"}
+    ]
+  },
+  {
+    "name": "Creamy Tomato Pasta",
+    "description": "Pasta in rich tomato cream sauce.",
+    "steps": [
+      "Cook pasta until al dente.",
+      "Sauté garlic and tomatoes in olive oil.",
+      "Stir in milk and cheese until sauce is creamy.",
+      "Combine pasta with sauce and serve."
+    ],
+    "ingredients": [
+      {"name": "pasta", "quantity": 200, "unit": "g"},
+      {"name": "tomatoes", "quantity": 3, "unit": "piece"},
+      {"name": "garlic", "quantity": 2, "unit": "clove"},
+      {"name": "milk", "quantity": 100, "unit": "ml"},
+      {"name": "cheese", "quantity": 40, "unit": "g"},
+      {"name": "olive oil", "quantity": 1, "unit": "tbsp"}
+    ]
+  },
+  {
+    "name": "Cheese & Potato Bake",
+    "description": "Baked potato slices layered with cheese.",
+    "steps": [
+      "Thinly slice potatoes and chop onion.",
+      "Layer potatoes, onion, and cheese in baking dish.",
+      "Pour milk over layers and dot with butter.",
+      "Bake at 190C for 40 minutes until bubbly and golden."
+    ],
+    "ingredients": [
+      {"name": "potato", "quantity": 4, "unit": "piece"},
+      {"name": "cheese", "quantity": 100, "unit": "g"},
+      {"name": "onion", "quantity": 1, "unit": "piece"},
+      {"name": "milk", "quantity": 150, "unit": "ml"},
+      {"name": "butter", "quantity": 20, "unit": "g"}
+    ]
+  },
+  {
+    "name": "Simple Flour Biscuits",
+    "description": "Easy homemade drop biscuits.",
+    "steps": [
+      "Mix flour, salt, and melted butter.",
+      "Stir in milk until soft dough forms.",
+      "Drop spoonfuls onto baking sheet.",
+      "Bake at 200C for 15 minutes until lightly browned."
+    ],
+    "ingredients": [
+      {"name": "flour", "quantity": 250, "unit": "g"},
+      {"name": "butter", "quantity": 50, "unit": "g"},
+      {"name": "milk", "quantity": 150, "unit": "ml"}
+    ]
+  },
+  {
+    "name": "Vegetable Omelette",
+    "description": "Loaded veggie omelette.",
+    "steps": [
+      "Sauté diced tomatoes and onion in olive oil.",
+      "Whisk eggs with salt and pour over vegetables.",
+      "Cook until eggs are set and fold in half.",
+      "Serve warm."
+    ],
+    "ingredients": [
+      {"name": "eggs", "quantity": 3, "unit": "piece"},
+      {"name": "tomatoes", "quantity": 1, "unit": "piece"},
+      {"name": "onion", "quantity": 1, "unit": "piece"},
+      {"name": "olive oil", "quantity": 1, "unit": "tbsp"}
+    ]
+  }
+]

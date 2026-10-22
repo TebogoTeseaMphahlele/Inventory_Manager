@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ingredient_units">
+        <item>g</item>
+        <item>kg</item>
+        <item>mg</item>
+        <item>oz</item>
+        <item>lb</item>
+        <item>ml</item>
+        <item>l</item>
+        <item>tsp</item>
+        <item>tbsp</item>
+        <item>cup</item>
+        <item>fl oz</item>
+        <item>piece</item>
+        <item>clove</item>
+        <item>slice</item>
+        <item>can</item>
+        <item>pack</item>
+        <item>bunch</item>
+    </string-array>
+
+    <string-array name="units_preference_options">
+        <item>Metric</item>
+        <item>Imperial</item>
+    </string-array>
+</resources>
